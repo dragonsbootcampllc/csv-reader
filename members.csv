@@ -1,0 +1,3 @@
+id,full_name,password,email,profile_pic,date_of_birth,date_joined,is_board,rule,location,github_prof,linkedin_prof,is_member,team_id
+1,John Doe,my_password,johndoe@example.com,http://example.com/profilepic.jpg,1990-01-01,2021-01-01,1,admin,New York,https://github.com/johndoe,https://www.linkedin.com/in/johndoe/,1,1 2,Jane Smith,another_password,janesmith@example.com,http://example.com/profilepic.jpg,1995-05-05,2021-01-01,0,member,San Francisco,,https://www.linkedin.com/in/janesmith/,1,1 3,Bob Johnson,yet_another_password,bobjohnson@example.com,http://example.com/profilepic.jpg,1990-01-01,2021-01-01,0,member,Los Angeles,,https://www.linkedin.com/in/bobjohnson/,1,2
+

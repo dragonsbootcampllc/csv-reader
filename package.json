@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [],
+  "author": ["Eslam Muhammad","Hamdy Saad", "Hatem Ali" , "Salah Eldin", "Abdelrahman Ali", "Ahmed Mohdaly" ],
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "csv": "^6.2.10",
+    "csv-parser": "^3.0.0",
+    "mysql2": "^3.2.4",
+    "node-fetch": "^3.2.6"
+  }
+}
